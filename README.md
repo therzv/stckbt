@@ -27,10 +27,3 @@ pipeline is also acceptable - to perform the tasks below : - Run the Terraform s
 above to provision the underlying infrastructure. - Create a Dockerfile with Alpine base
 image and install the application into the container - Deploy the resulting docker to the
 targeted instance(s).
-
-Unfortunately, i'd never use Gitlab / Github and Bitbucket CI. So in this repository, i use jenkins and put Jenkinsfile on the repository. 
-
-
-I know, all of my answer it is not perfect and mostly, not answer the question. but currently in my current company (Valbury), in the middle of doing Data Center migration. and from the day till night, myself and team are stay at DCI Cibitung.
-
-Thank you and Apologize
